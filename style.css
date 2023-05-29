@@ -946,4 +946,5 @@ text-shadow: 0 0 5px var(--rosa-neon),
  .paragrafo{
      color: var(--roxo-opaco);
      margin-bottom: 50px;
+     font-size: 2.5rem;
  }
